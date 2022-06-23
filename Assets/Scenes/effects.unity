@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 1796816435}
   - component: {fileID: 1796816434}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: trail_render_obj
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
