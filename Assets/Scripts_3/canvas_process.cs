@@ -35,4 +35,15 @@ public class canvas_process : MonoBehaviour
         }
         
     }
+
+
+    public void IncreaseHealth(float out_value)
+    {
+        health_img.fillAmount += out_value;
+    }
+
+    public void DecreaseHealth(float out_value)
+    {
+        health_img.fillAmount -= out_value;
+    }
 }
