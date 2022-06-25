@@ -28,6 +28,11 @@ public class canvas_process : MonoBehaviour
         }
         else
             health_img.fillAmount = .0f;
+
+        if (Input.GetKeyDown(KeyCode.D))
+        {
+            health_img.fillAmount += .3f;
+        }
         
     }
 }
