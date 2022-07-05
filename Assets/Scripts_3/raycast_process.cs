@@ -23,6 +23,9 @@ public class raycast_process : MonoBehaviour
             Debug.DrawRay(transform.position, transform.TransformDirection(new Vector3(0f, 0f, 1f)) * hit.distance, Color.yellow);
             //Debug.DrawRay(transform.position, transform.TransformDirection(Vector3.forward) * hit.distance, Color.yellow);
 
+            //Destroy(hit.transform.gameObject);
+            hit.transform.GetComponent<MeshRenderer>().enabled = false;
+
             Debug.Log("Interaction");
         }
         else
