@@ -1,0 +1,42 @@
+1- Nisan ayında Unity kullanmaya başladım. Bugün fizik işlemleri ile ufak denemeler yaptım. // 29.04.2022
+
+2- 3D Jointleri (Force, Hinge, Spring Joint- Constrant Force) kullanmayı öğrenmeye çalıştım. // 30.04.2022
+
+3- 2D fizik işlemleri ve 2D Jointleri kullanmayı öğrenmeye çalıştım. // 01.05.2022
+
+4- 2D Effectorleri kullanmayı öğrenmeye çalıştım. // 04.05.2022
+
+5- Material/Texture/lightning/Shaders öğrenmeye başladım. // 05.05.2022
+
+6- Material/Texture/lightning/Shaders kısmı bitti. // 08.05.2022
+
+7- Camera ve Occlusion ayarlarını öğrenmeye çalıştım. // 10.05.2022
+
+8- Lighting ayarlarını öğrenmeye çalıştım. // 11.05.2022
+
+
+9- Askerlik 14 Mayıs - 12 Haziran 2022
+
+
+10- Unity Effect (Temel efektler) öğrenmeye başladım. // 23.06.2022
+
+11- Unity Effect (Particle Effects) öğrenmeye başladım // 24.06.2022
+
+12- Visual Graphic Effect öğrenmeye başladım. Daha sonra Canvas UI öğrenmeye başladım. // 25.06.2022
+
+13- Animasyon konusunu öğrenmeye başladım. // 27.06.2022
+
+14- Audio - Ses konusunu öğrenmeye başladım. // 29.06.2022
+
+15- AI-Navigation konusunu öğrenmeye başladım. // 01.07.2022
+
+16- Input - Joystick işlemlerini öğrenmeye başladım. // 03.07.2022
+
+17- Terrain işlemlerini öğrenmeye başladım. // 04.07.2022
+
+18- Post-Process ve 2D/3D Ray Cast sistemini öğrenmeye başladım. // 05.07.2022
+
+19- Playerprefs işlemlerini öğrenmeye başladım. // 06.07.2022
+
+20- Dosya ile Save-Load sistemini ve 2D Tile Map işlemlerini öğrendim. // 07.07.2022
+
