@@ -40,3 +40,5 @@
 
 20- Dosya ile Save-Load sistemini ve 2D Tile Map işlemlerini öğrendim. // 07.07.2022
 
+21- EventSystem ve SceneManager işlemlerini öğrendim. // 08.07.2022
+
